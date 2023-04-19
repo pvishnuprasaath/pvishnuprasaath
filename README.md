@@ -7,6 +7,7 @@ A curious tech junkie. Breaking keyboards to build software from 'Hello World' t
 Perpetually caffeinated. I write code by day, and laugh at it by night.
 
 
+
 <h3 align="left"> 🚀 Playing with:</h3>
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -46,14 +47,14 @@ Perpetually caffeinated. I write code by day, and laugh at it by night.
 ---
 
 <p align="center">
-<a href="https://linkedin.com/in/pvishnuprasaath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pvishnuprasaath" height="20" width="20" /></a>&nbsp;
-<a href="https://hashnode.com/@vishnuprasaath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="pvishnuprasaath" height="20" width="20" /></a>&nbsp;
-<!-- <a href="https://dev.to/pvishnuprasaath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/devdotto.svg" alt="pvishnuprasaath" height="20" width="20" /></a>&nbsp; -->
-<a href="https://leetcode.com/pvishnuprasaath/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="pvishnuprasaath" height="20" width="20" /></a>&nbsp;
-<a href="https://www.instagram.com/vishnu.prasaath/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pvishnuprasaath" height="20" width="20" /></a>&nbsp;
-<a href="https://twitter.com/pvishnuprasaath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pvishnuprasaath" height="20" width="20" /></a>&nbsp;
-<a href="mailto:pvishnuprasaath@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="pvishnuprasaath@gmail.com" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/pvishnuprasaath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/linkedin.svg" alt="pvishnuprasaath" height="20" width="20" /></a>&nbsp;
+<a href="https://blog.vishnuprasaath.dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/hashnode.svg" alt="pvishnuprasaath" height="20" width="20" /></a>&nbsp;
+<!-- <a href="https://dev.to/pvishnuprasaath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/devdotto.svg" alt="pvishnuprasaath" height="20" width="20" /></a>&nbsp; -->
+<a href="https://leetcode.com/pvishnuprasaath/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/leetcode.svg" alt="pvishnuprasaath" height="20" width="20" /></a>&nbsp;
+<a href="https://www.instagram.com/vishnu.prasaath/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/instagram.svg" alt="pvishnuprasaath" height="20" width="20" /></a>&nbsp;
+<a href="https://www.youtube.com/@vishnu.prasaath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/youtube.svg" alt="pvishnuprasaath" height="20" width="20" /></a>&nbsp;
+<a href="mailto:pvishnuprasaath@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/gmail.svg" alt="pvishnuprasaath@gmail.com" height="20" width="20" /></a>
 </p>
 
-Last Edited on: 5-Apr-2023
+Last Edited on: 19-Apr-2023
 
