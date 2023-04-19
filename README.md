@@ -1,4 +1,4 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 ### :octocat: Me:
 
@@ -6,7 +6,7 @@ A curious tech junkie. Breaking keyboards to build software from 'Hello World' t
 
 Perpetually caffeinated. I write code by day, and laugh at it by night.
 
-
+My Dev WebSpace: <b><a href="https://www.vishnuprasaath.dev/" target="_blank" rel="noreferrer">www.vishnuprasaath.dev</a></b> <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 
 <h3 align="left"> 🚀 Playing with:</h3>
 <p align="left"> 
@@ -47,13 +47,13 @@ Perpetually caffeinated. I write code by day, and laugh at it by night.
 ---
 
 <p align="center">
-<a href="https://linkedin.com/in/pvishnuprasaath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/linkedin.svg" alt="pvishnuprasaath" height="20" width="20" /></a>&nbsp;
-<a href="https://blog.vishnuprasaath.dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/hashnode.svg" alt="pvishnuprasaath" height="20" width="20" /></a>&nbsp;
-<!-- <a href="https://dev.to/pvishnuprasaath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/devdotto.svg" alt="pvishnuprasaath" height="20" width="20" /></a>&nbsp; -->
-<a href="https://leetcode.com/pvishnuprasaath/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/leetcode.svg" alt="pvishnuprasaath" height="20" width="20" /></a>&nbsp;
-<a href="https://www.instagram.com/vishnu.prasaath/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/instagram.svg" alt="pvishnuprasaath" height="20" width="20" /></a>&nbsp;
-<a href="https://www.youtube.com/@vishnu.prasaath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/youtube.svg" alt="pvishnuprasaath" height="20" width="20" /></a>&nbsp;
-<a href="mailto:pvishnuprasaath@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/gmail.svg" alt="pvishnuprasaath@gmail.com" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/pvishnuprasaath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/linkedin.svg" alt="pvishnuprasaath" height="24" width="24" /></a>&nbsp;
+<a href="https://blog.vishnuprasaath.dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/hashnode.svg" alt="pvishnuprasaath" height="24" width="24" /></a>&nbsp;
+<!-- <a href="https://dev.to/pvishnuprasaath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/devdotto.svg" alt="pvishnuprasaath" height="24" width="24" /></a>&nbsp; -->
+<a href="https://leetcode.com/pvishnuprasaath/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/leetcode.svg" alt="pvishnuprasaath" height="24" width="24" /></a>&nbsp;
+<a href="https://www.instagram.com/vishnu.prasaath/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/instagram.svg" alt="pvishnuprasaath" height="24" width="24" /></a>&nbsp;
+<a href="https://www.youtube.com/@vishnu.prasaath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/youtube.svg" alt="pvishnuprasaath" height="24" width="24" /></a>&nbsp;
+<a href="mailto:pvishnuprasaath@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/gmail.svg" alt="pvishnuprasaath@gmail.com" height="24" width="24" /></a>
 </p>
 
 Last Edited on: 19-Apr-2023
